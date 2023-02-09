@@ -1,5 +1,6 @@
 # hola a todos
-Me presento soy Susi Verde de Merida Yucatan, tengo 47 años, entre las diversas actividades que realizo, me dedico a dar servicios de computo, compra/venta , asi como instalacion, actualizacion y reparacion de equipo. Actualmente estoy  interesada en estudiar aprender y ejercer la carrera de desarrollo de software.![UsingTheComputerDebbieHarperGIF](https://user-images.githubusercontent.com/123264589/217730065-5b5bedca-213e-47b1-b014-b997f26f56e3.gif)
+Me presento soy Susi Verde de Merida Yucatan, tengo 47 años, entre las diversas actividades que realizo, me dedico a dar servicios de computo, compra/venta , asi como instalacion, actualizacion y reparacion de equipo. Actualmente estoy  interesada en estudiar aprender y ejercer la carrera de desarrollo de software.!
+[UsingTheComputerDebbieHarperGIF](https://user-images.githubusercontent.com/123264589/217730065-5b5bedca-213e-47b1-b014-b997f26f56e3.gif)
 
 
 
